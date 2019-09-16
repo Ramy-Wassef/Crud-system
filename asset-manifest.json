@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Crud-system/static/css/main.f1db5722.chunk.css",
+    "main.js": "/Crud-system/static/js/main.344eb6b5.chunk.js",
+    "main.js.map": "/Crud-system/static/js/main.344eb6b5.chunk.js.map",
+    "runtime~main.js": "/Crud-system/static/js/runtime~main.e7bfd111.js",
+    "runtime~main.js.map": "/Crud-system/static/js/runtime~main.e7bfd111.js.map",
+    "static/js/2.2c1938a2.chunk.js": "/Crud-system/static/js/2.2c1938a2.chunk.js",
+    "static/js/2.2c1938a2.chunk.js.map": "/Crud-system/static/js/2.2c1938a2.chunk.js.map",
+    "index.html": "/Crud-system/index.html",
+    "precache-manifest.0b4f88412de96ad25a28b5ec5de740ef.js": "/Crud-system/precache-manifest.0b4f88412de96ad25a28b5ec5de740ef.js",
+    "service-worker.js": "/Crud-system/service-worker.js",
+    "static/css/main.f1db5722.chunk.css.map": "/Crud-system/static/css/main.f1db5722.chunk.css.map"
+  }
+}
